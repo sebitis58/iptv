@@ -1,40 +1,10 @@
 #EXTM3U
-#EXTINF:-1,13 C
-http://45.181.122.201:8081/play/a041
 #EXTINF:-1,A&E HD
 http://45.181.122.201:8081/play/a005
-#EXTINF:-1,AMC HD
-http://45.181.122.201:8081/play/a01o
 #EXTINF:-1,ATRES SERIES HD
 http://45.181.122.201:8081/play/a06e
 #EXTINF:-1,AXN HD
 http://45.181.122.201:8081/play/a008
-#EXTINF:-1,Animal Planet HD
-http://45.181.122.201:8081/play/a01z
-#EXTINF:-1,Animotion
-http://45.181.122.201:8081/play/a04k
-#EXTINF:-1,Atlas
-http://45.181.122.201:8081/play/a067
-#EXTINF:-1,BBC World
-http://45.181.122.201:8081/play/a04y
-#EXTINF:-1,Baby TV
-http://45.181.122.201:8081/play/a04t
-#EXTINF:-1,C+Life
-http://45.181.122.201:8081/play/a05i
-#EXTINF:-1,CHV HD
-http://45.181.122.201:8081/play/a00l
-#EXTINF:-1,CNN Chile HD
-http://45.181.122.201:8081/play/a06k
-#EXTINF:-1,CNN Espaæol
-http://45.181.122.201:8081/play/a04x
-#EXTINF:-1,CNN International
-http://45.181.122.201:8081/play/a06n
-#EXTINF:-1,Canal 1 HD
-http://45.181.122.201:8081/play/a025
-#EXTINF:-1,Canal 13 HD
-http://45.181.122.201:8081/play/a02h
-#EXTINF:-1,Canal 24 Horas HD
-http://45.181.122.201:8081/play/a02n
 #EXTINF:-1,Caracol HD
 http://45.181.122.201:8081/play/a02p
 #EXTINF:-1,Cartoon Network HD
@@ -49,7 +19,7 @@ http://45.181.122.201:8081/play/a04r
 http://45.181.122.201:8081/play/a00w
 #EXTINF:-1,DHE HD
 http://45.181.122.201:8081/play/a02r
-#EXTINF:-1,DW (Deutsch +)
+#EXTINF:-1,DW 
 http://45.181.122.201:8081/play/a052
 #EXTINF:-1,De Película
 http://45.181.122.201:8081/play/a06p
@@ -57,18 +27,12 @@ http://45.181.122.201:8081/play/a06p
 http://45.181.122.201:8081/play/a013
 #EXTINF:-1,Discovery HD
 http://45.181.122.201:8081/play/a06h
-#EXTINF:-1,Discovery Kids HD
-http://45.181.122.201:8081/play/a012
 #EXTINF:-1,Discovery Theater HD
 http://45.181.122.201:8081/play/a014
 #EXTINF:-1,Discovery Turbo
 http://45.181.122.201:8081/play/a033
 #EXTINF:-1,Discovery World HD
 http://45.181.122.201:8081/play/a01m
-#EXTINF:-1,Disney HD
-http://45.181.122.201:8081/play/a06d
-#EXTINF:-1,Disney Junior
-http://45.181.122.201:8081/play/a043
 #EXTINF:-1,E! HD
 http://45.181.122.201:8081/play/a03n
 #EXTINF:-1,ESPN 2 HD
@@ -87,32 +51,18 @@ http://45.181.122.201:8081/play/a062
 http://45.181.122.201:8081/play/a01p
 #EXTINF:-1,ESPN HD
 http://45.181.122.201:8081/play/a00i
-#EXTINF:-1,ETC
-http://45.181.122.201:8081/play/a05t
-#EXTINF:-1,EWTN
-http://45.181.122.201:8081/play/a065
 #EXTINF:-1,El Gourmet HD
 http://45.181.122.201:8081/play/a06f
 #EXTINF:-1,ElCanaldelFutbol HD
 http://45.181.122.201:8081/play/a02f
-#EXTINF:-1,Enlace
-http://45.181.122.201:8081/play/a03e
-#EXTINF:-1,FMH Family
-http://45.181.122.201:8081/play/a04j
-#EXTINF:-1,FMH kids
-http://45.181.122.201:8081/play/a04l
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1,ESPN 7 HD
 http://45.181.122.201:8081/play/a019
 #EXTINF:-1,FX HD
 http://45.181.122.201:8081/play/a01d
 #EXTINF:-1,Food Network HD
 http://45.181.122.201:8081/play/a02a
-#EXTINF:-1,Fortaleza TV
-http://45.181.122.201:8081/play/a05l
-#EXTINF:-1,Fox Sports 1 HD
+#EXTINF:-1,ESPN PREMIUM
 http://45.181.122.201:8081/play/a02t
-#EXTINF:-1,Fox Sports 3 HD
-http://45.181.122.201:8081/play/a00r
 #EXTINF:-1,GOLPERU HD
 http://45.181.122.201:8081/play/a02e
 #EXTINF:-1,Goku Tv
