@@ -1,122 +1,122 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-181.78.86.226:8086/play/a00z
+http://181.78.86.226:8086/play/a00z
 #EXTINF:-1,AMC HD
-181.78.86.226:8086/play/a05y
+http://181.78.86.226:8086/play/a05y
 #EXTINF:-1,AXN HD
-181.78.86.226:8086/play/a011
+http://181.78.86.226:8086/play/a011
 #EXTINF:-1,Adult Swim HD
-181.78.86.226:8086/play/a00v
+http://181.78.86.226:8086/play/a00v
 #EXTINF:-1,Animal Planet HD
-181.78.86.226:8086/play/a069
+http://181.78.86.226:8086/play/a069
 #EXTINF:-1,CANAL DEL CAMPO
-181.78.86.226:8086/play/a00o
+http://181.78.86.226:8086/play/a00o
 #EXTINF:-1,CANAL12
-181.78.86.226:8086/play/a001
+http://181.78.86.226:8086/play/a001
 #EXTINF:-1,CHV HD
-181.78.86.226:8086/play/a04w
+http://181.78.86.226:8086/play/a04w
 #EXTINF:-1,Canal 1 HD
-181.78.86.226:8086/play/a06e
+http://181.78.86.226:8086/play/a06e
 #EXTINF:-1,Canal Institucional HD
-181.78.86.226:8086/play/a013
+http://181.78.86.226:8086/play/a013
 #EXTINF:-1,Caracol HD
-181.78.86.226:8086/play/a01a
+http://181.78.86.226:8086/play/a01a
 #EXTINF:-1,Cinecanal HD
-181.78.86.226:8086/play/a015
+http://181.78.86.226:8086/play/a015
 #EXTINF:-1,Cinemax HD
-181.78.86.226:8086/play/a012
+http://181.78.86.226:8086/play/a012
 #EXTINF:-1,Comedy Central HD
-181.78.86.226:8086/play/a00t
+http://181.78.86.226:8086/play/a00t
 #EXTINF:-1,DHE HD
-181.78.86.226:8086/play/a071
+http://181.78.86.226:8086/play/a071
 #EXTINF:-1,E! HD
-181.78.86.226:8086/play/a06h
+http://181.78.86.226:8086/play/a06h
 #EXTINF:-1,ESPN 2 HD
-181.78.86.226:8086/play/a04l
+http://181.78.86.226:8086/play/a04l
 #EXTINF:-1,ESPN 2 HD
-181.78.86.226:8086/play/a054
+http://181.78.86.226:8086/play/a054
 #EXTINF:-1,ESPN 3 HD
-181.78.86.226:8086/play/a051
+http://181.78.86.226:8086/play/a051
 #EXTINF:-1,ESPN 4HD
-181.78.86.226:8086/play/a014
+http://181.78.86.226:8086/play/a014
 #EXTINF:-1,ESPN 5HD
-181.78.86.226:8086/play/a01e
+http://181.78.86.226:8086/play/a01e
 #EXTINF:-1,ESPN 6HD
-181.78.86.226:8086/play/a052
+http://181.78.86.226:8086/play/a052
 #EXTINF:-1,ESPN 7HD
-181.78.86.226:8086/play/a05k
+http://181.78.86.226:8086/play/a05k
 #EXTINF:-1,ESPN HD
-181.78.86.226:8086/play/a04t
+http://181.78.86.226:8086/play/a04t
 #EXTINF:-1,ESPN HD
-181.78.86.226:8086/play/a06f
+http://181.78.86.226:8086/play/a06f
 #EXTINF:-1,ElCanaldelFutbol HD
-181.78.86.226:8086/play/a06o
+http://181.78.86.226:8086/play/a06o
 #EXTINF:-1,FX HD
-181.78.86.226:8086/play/a01f
+http://181.78.86.226:8086/play/a01f
 #EXTINF:-1,Food Network HD
-181.78.86.226:8086/play/a06k
+http://181.78.86.226:8086/play/a06k
 #EXTINF:-1,GolTV HD
-181.78.86.226:8086/play/a06i
+http://181.78.86.226:8086/play/a06i
 #EXTINF:-1,Golden HD
-181.78.86.226:8086/play/a06b
+http://181.78.86.226:8086/play/a06b
 #EXTINF:-1,HBO 2 HD
-181.78.86.226:8086/play/a067
+http://181.78.86.226:8086/play/a067
 #EXTINF:-1,HBO POP HD
-181.78.86.226:8086/play/a04m
+http://181.78.86.226:8086/play/a04m
 #EXTINF:-1,History 2 HD
-181.78.86.226:8086/play/a01j
+http://181.78.86.226:8086/play/a01j
 #EXTINF:-1,History Channel HD
-181.78.86.226:8086/play/a00y
+http://181.78.86.226:8086/play/a00y
 #EXTINF:-1,ID HD
-181.78.86.226:8086/play/a00u
+http://181.78.86.226:8086/play/a00u
 #EXTINF:-1,Kanal D Drama HD
-181.78.86.226:8086/play/a061
+http://181.78.86.226:8086/play/a061
 #EXTINF:-1,Love Nature HD
-181.78.86.226:8086/play/a01h
+http://181.78.86.226:8086/play/a01h
 #EXTINF:-1,NTV
-181.78.86.226:8086/play/a05s
+http://181.78.86.226:8086/play/a05s
 #EXTINF:-1,Nat Geo HD
-181.78.86.226:8086/play/a05v
+http://181.78.86.226:8086/play/a05v
 #EXTINF:-1,Nick HD
-181.78.86.226:8086/play/a04r
+http://181.78.86.226:8086/play/a04r
 #EXTINF:-1,Pasiones HD
-181.78.86.226:8086/play/a00r
+http://181.78.86.226:8086/play/a00r
 #EXTINF:-1,Playboy HD
-181.78.86.226:8086/play/a05n
+http://181.78.86.226:8086/play/a05n
 #EXTINF:-1,RCN HD
-181.78.86.226:8086/play/a019
+http://181.78.86.226:8086/play/a019
 #EXTINF:-1,STAR CHANNEL HD
-181.78.86.226:8086/play/a01i
+http://181.78.86.226:8086/play/a01i
 #EXTINF:-1,STAR TVE HD
-181.78.86.226:8086/play/a065
+http://181.78.86.226:8086/play/a065
 #EXTINF:-1,Seæal Colombia HD
-181.78.86.226:8086/play/a06a
+http://181.78.86.226:8086/play/a06a
 #EXTINF:-1,Sony HD
-181.78.86.226:8086/play/a010
+http://181.78.86.226:8086/play/a010
 #EXTINF:-1,Space HD
-181.78.86.226:8086/play/a04j
+http://181.78.86.226:8086/play/a04j
 #EXTINF:-1,Studio Universal HD
-181.78.86.226:8086/play/a064
+http://181.78.86.226:8086/play/a064
 #EXTINF:-1,Sun Channel HD
-181.78.86.226:8086/play/a05c
+http://181.78.86.226:8086/play/a05c
 #EXTINF:-1,TNT HD
-181.78.86.226:8086/play/a050
+http://181.78.86.226:8086/play/a050
 #EXTINF:-1,TNT Series HD
-181.78.86.226:8086/play/a017
+http://181.78.86.226:8086/play/a017
 #EXTINF:-1,TNT Sports Premiun HD
-181.78.86.226:8086/play/a04k
+http://181.78.86.226:8086/play/a04k
 #EXTINF:-1,TV+ HD
-181.78.86.226:8086/play/a05t
+http://181.78.86.226:8086/play/a05t
 #EXTINF:-1,TVN HD
-181.78.86.226:8086/play/a04v
+http://181.78.86.226:8086/play/a04v
 #EXTINF:-1,TyC Sports HD
-181.78.86.226:8086/play/a06n
+http://181.78.86.226:8086/play/a06n
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-181.78.86.226:8086/play/a00q
+http://181.78.86.226:8086/play/a00q
 #EXTINF:-1,Warner Channel HD
-181.78.86.226:8086/play/a04h
+http://181.78.86.226:8086/play/a04h
 #EXTINF:-1,Win Sports+ HD
-181.78.86.226:8086/play/a068
+http://181.78.86.226:8086/play/a068
 #EXTINF:-1,A&E HD
 http://186.113.25.223:62837/play/a04q
 #EXTINF:-1,ATRES SERIES HD
