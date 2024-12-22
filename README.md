@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-http://http://186.113.25.223:62837/play/a04q
+http://186.113.25.223:62837/play/a04q
 #EXTINF:-1,ATRES SERIES HD
 http://186.113.25.223:62837/play/a05e
 #EXTINF:-1,AXN HD
