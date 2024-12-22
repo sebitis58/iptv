@@ -471,3 +471,7 @@ http://45.4.1.131:5783/play/a00q/index.m3u8
 http://45.4.1.131:5783/play/a00f/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.4.1.131:5783/play/a01p/index.m3u8
+#EXTINF:-1,Venus
+http://176.65.146.108:8022/play/a07j/index.m3u8
+#EXTINF:-1,PB
+http://176.65.146.108:8022/play/a07k/index.m3u8
