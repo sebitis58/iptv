@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,win+n
-http://201.182.250.126:9999/play/a0rx
+http://181.78.74.215:8000/play/a188/index.m3u8
 #EXTINF:0,A&E HD
 http://168.90.14.117:8282/play/a0d1
 #EXTINF:0,AMC HD
